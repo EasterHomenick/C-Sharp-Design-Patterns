@@ -10,4 +10,4 @@ namespace Decorator
             Console.WriteLine("ConcreteDecoratorA.Operation()");
         }
     }
-}
+} 
